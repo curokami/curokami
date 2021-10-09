@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @curokami
-- 👀 I’m interested in djungo 
+- 👀 I’m interested in django
 - 🌱 I’m currently learning python,golang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
